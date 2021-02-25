@@ -1,0 +1,50 @@
+.gif{
+    width: 200px;
+    
+}
+
+.gifImages{
+    width: 300px;
+}
+
+button{
+    margin-right: 5px;
+}
+
+#gifDiv{
+    float: left;
+    /* display: inline; */
+}
+
+#favorites{
+    /* border: 1px solid black; */
+    height: 800px;
+    width: 350px;
+    background-color: rgb(247, 243, 239)
+}
+
+.gifFav{
+    width:175px;
+}
+
+body{
+    background-color: white;
+}
+
+#add-tvshow{
+    border: .5px solid black;
+    height:35px;
+    width: 180px;
+}
+
+#submitBtn{
+    height: 35px;   
+}
+
+p{
+    margin-bottom: 0px;
+}
+
+h1{
+    border-bottom: 3.5px solid rgb(94, 94, 206)
+}
